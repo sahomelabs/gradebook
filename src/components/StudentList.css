@@ -3,7 +3,7 @@
     max-width: 400px;
     margin: 0 auto;
 }
-  
+
 .input-group {
     display: flex;
     flex-direction: column;
@@ -13,7 +13,6 @@
 .input-group div {
     margin-bottom: 10px;
 }
-  
 
 .input-group input {
     padding: 10px;
