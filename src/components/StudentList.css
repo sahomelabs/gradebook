@@ -1,0 +1,49 @@
+/* StudentList.css */
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+}
+  
+.input-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1px;
+}
+  
+.input-group div {
+    margin-bottom: 10px;
+}
+  
+
+.input-group input {
+    padding: 10px;
+}
+  
+ul {
+    list-style: none;
+    padding: 0;
+}
+  
+li {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+  
+
+.name {
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+  
+.grade {
+    color: #555;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+  
+
+.appname{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
