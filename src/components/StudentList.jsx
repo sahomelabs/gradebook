@@ -11,7 +11,7 @@ const StudentList = () => {
   const [students, setStudents] = useState([
     { name: 'Daniel D', grade: 'A' },
     { name: 'Damian Lillard', grade: 'B' },
-    { name: 'Bobby Johnson', grade: 'C' },
+    { name: 'Bobby Portis', grade: 'C' },
     { name: 'Brook Lopez', grade: 'A-' },
     { name: 'Giannis Atekokounmpo', grade: 'B+' },
   ]);
